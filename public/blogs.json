@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/DGCFf4f/8949509.jpg",
+      "title": "The Whispering Shadows",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/GdVz41P/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 12,
+      "hashtags": ["beginners",
+            "es6"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/5MwgHBH/3925184.jpg",
+      "title": "Echoes of Tomorrow",
+      "author": "John Smith",
+      "author_img": "https://example.com/authors/john.https://i.ibb.co.com/XtHyt6D/young-man-learning-virtual-classroom.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["mid_level",
+            "react"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/SsMxRg7/tp209-396-presentation-08.jpg",
+      "title": "Gardens of Solitude",
+      "author": "Emily White",
+      "author_img": "https://i.ibb.co.com/4fQZRyd/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "posted_date": "2024-08-20",
+      "reading_time": 15,
+      "hashtags": [ "development",
+      "resources"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/4702cW4/4099627.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/Xxq6tY6/medium-shot-woman-with-book-coffee-shop.jpg",
+      "posted_date": "2024-07-10",
+      "reading_time": 10,
+      "hashtags": ["javascript",
+            "coding",
+            "dev"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/ydY2VhJ/7340159.jpg",
+      "title": "The Last Secret",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co.com/w0Bznz3/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+      "posted_date": "2024-06-05",
+      "reading_time": 12,
+      "hashtags": ["next js", "type-script", "django"]
+    }
+  ]
+  
